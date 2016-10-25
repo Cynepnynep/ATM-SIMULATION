@@ -1,2 +1,2 @@
 
-print("fuck")
+print("test")
